@@ -1,0 +1,9 @@
+article p:first-child {
+font-size: 130%;
+font-weight: bold;
+color: #3333CC;
+}
+article p::first-line {
+    font-size: 100%;
+    font-weight: regular;
+}   
